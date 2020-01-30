@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-wrapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/M306_Minecraft_Mod/forge-1.15.2-31.0.14-mdk/gradle/wrapper/gradle-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
